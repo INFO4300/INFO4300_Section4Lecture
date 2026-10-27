@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+<title id="title">Preparing a new registration service at Cedar Crossing Library</title><desc id="desc">An original fictional library scene. A colleague presents a job brief, another practices using a booking screen, and a small feedback card connects preparation to continuing support.</desc>
+<rect width="1120" height="760" rx="32" fill="#eef5f1"/><path d="M0 625H1120V728Q1120 760 1088 760H32Q0 760 0 728Z" fill="#d4e7de"/>
+<rect x="60" y="65" width="306" height="395" rx="12" fill="#fff" stroke="#819d91" stroke-width="4"/>
+<path d="M75 197H350M75 326H350" stroke="#819d91" stroke-width="7"/>
+<g fill="#006747"><rect x="90" y="100" width="34" height="89" rx="3"/><rect x="206" y="227" width="29" height="91" rx="3"/><rect x="281" y="355" width="46" height="95" rx="3"/></g>
+<g fill="#85bba6"><rect x="133" y="116" width="32" height="73" rx="3"/><rect x="170" y="91" width="27" height="98" rx="3"/><rect x="95" y="221" width="37" height="97" rx="3"/><rect x="244" y="239" width="46" height="79" rx="3"/><rect x="186" y="360" width="33" height="90" rx="3"/></g>
+<g fill="#53565a"><rect x="208" y="111" width="40" height="78" rx="3"/><rect x="145" y="235" width="46" height="83" rx="3"/><rect x="97" y="370" width="29" height="80" rx="3"/><rect x="231" y="353" width="38" height="97" rx="3"/></g>
+<g fill="#d2b983"><rect x="263" y="96" width="35" height="93" rx="3"/><rect x="305" y="241" width="25" height="77" rx="3"/><rect x="139" y="355" width="36" height="95" rx="3"/></g>
+<rect x="426" y="67" width="270" height="237" rx="10" fill="#fff" stroke="#006747" stroke-width="4"/><text x="455" y="111" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#006747">JOB BRIEF</text><path d="M456 146H655M456 176H622M456 206H642M456 253H550" stroke="#819d91" stroke-width="10" stroke-linecap="round"/>
+<rect x="750" y="76" width="302" height="213" rx="10" fill="#b9dcd2"/><circle cx="794" cy="129" r="18" fill="#006747"/><path d="M785 129l7 7 13-15" fill="none" stroke="white" stroke-width="4"/><text x="830" y="137" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#173c2b">PRACTICE</text><path d="M785 180H1010M785 213H965M785 246H989" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="572" cy="696" rx="422" ry="24" fill="#b4cdbf"/>
+<!-- Two adult colleagues in a stylized teaching illustration -->
+<path d="M383 478V656H421L441 532L463 656H502V477" fill="#53565a"/><path d="M390 645L372 686H428L427 645M460 645L460 686H517L498 645" fill="#263b32"/>
+<path d="M377 339Q442 305 501 343L525 489H360Z" fill="#006747"/>
+<circle cx="437" cy="278" r="54" fill="#c98a64"/><path d="M384 281Q370 210 432 212Q499 212 491 274L466 247L401 256Z" fill="#313531"/>
+<path d="M382 349L334 421L391 439M491 353L536 402L574 365" fill="none" stroke="#c98a64" stroke-width="29" stroke-linecap="round"/>
+<path d="M423 303q14 10 27 0" stroke="#6e4938" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="416" cy="278" r="3" fill="#313531"/><circle cx="458" cy="278" r="3" fill="#313531"/>
+<path d="M817 475V651H851L871 526L888 652H927V473" fill="#53565a"/><path d="M815 641L799 684H856L856 641M887 642L887 684H944L924 642" fill="#263b32"/>
+<path d="M813 337Q869 312 926 339L956 490H790Z" fill="#85bba6"/><circle cx="869" cy="277" r="52" fill="#754e36"/>
+<path d="M817 269Q805 206 861 210Q913 199 924 263L903 251L832 252Z" fill="#272a29"/><path d="M822 255Q799 297 813 329L833 303M911 252Q938 298 922 331L903 305" fill="#272a29"/>
+<circle cx="850" cy="278" r="3" fill="#202722"/><circle cx="889" cy="278" r="3" fill="#202722"/><path d="M856 303q13 9 26 0" stroke="#493221" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M813 359L770 416L714 397M925 356L972 414L941 440" fill="none" stroke="#754e36" stroke-width="28" stroke-linecap="round"/>
+<!-- Workstation -->
+<rect x="527" y="456" width="265" height="26" rx="8" fill="#c8a976"/><path d="M548 482V671M771 482V671" stroke="#53565a" stroke-width="17"/>
+<rect x="580" y="337" width="161" height="111" rx="7" fill="#53565a"/><rect x="592" y="349" width="137" height="84" rx="2" fill="white"/><path d="M608 368H710M608 389H687M608 410H700" stroke="#85bba6" stroke-width="8" stroke-linecap="round"/><path d="M661 448v12M625 460h72" stroke="#53565a" stroke-width="8"/>
+<path d="M556 541H755V606H617L594 629V606H556Z" fill="white" stroke="#006747" stroke-width="3"/><text x="584" y="582" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#006747">FOLLOW UP</text>
+</svg>
